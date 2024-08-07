@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\git\SAT-Solver\main.cpp(111,12): warning C4267: 'initializing': conversion from 'size_t' to 'uint', possible loss of data
+C:\git\SAT-Solver\main.cpp(122,48): warning C4267: '=': conversion from 'size_t' to 'uint', possible loss of data
+  SAT-Solver.vcxproj -> C:\git\SAT-Solver\x64\Debug\SAT-Solver.exe
